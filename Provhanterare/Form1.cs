@@ -49,20 +49,8 @@ namespace Provhanterare
             sw.WriteLine(text4);
             sw.WriteLine(text5);
             sw.Close();
-
+            
         }
-
-
-
-
-
-
-
-
-
-
-
-
 
     }
 }
