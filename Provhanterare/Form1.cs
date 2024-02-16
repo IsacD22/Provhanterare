@@ -40,7 +40,14 @@ namespace Provhanterare
         private void button1_Click(object sender, EventArgs e)
         {
             StreamWriter sw = File.CreateText("answers.txt");
-            sw.WriteLine("yooo");
+            string text1 = textBox1.Text;
+            string text2 = textBox2.Text;
+            string text4 = textBox4.Text;
+            string text5 = textBox5.Text;
+            sw.WriteLine(text1);
+            sw.WriteLine(text2);
+            sw.WriteLine(text4);
+            sw.WriteLine(text5);
             sw.Close();
 
         }
