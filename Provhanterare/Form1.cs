@@ -43,35 +43,19 @@ namespace Provhanterare
             sw.WriteLine("yooo");
             sw.Close();
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-        private void label9_Click(object sender, EventArgs e)
-        {
-
         }
 
-        private void flowLayoutPanel12_Paint(object sender, PaintEventArgs e)
-        {
 
-        }
 
-        private void tableLayoutPanel1_Paint_1(object sender, PaintEventArgs e)
-        {
 
-        }
+
+
+
+
+
+
+
+
+
     }
 }

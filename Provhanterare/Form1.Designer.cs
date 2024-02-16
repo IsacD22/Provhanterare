@@ -131,8 +131,7 @@
             this.tableLayoutPanel1.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 25F));
             this.tableLayoutPanel1.Size = new System.Drawing.Size(1141, 709);
             this.tableLayoutPanel1.TabIndex = 0;
-            this.tableLayoutPanel1.Paint += new System.Windows.Forms.PaintEventHandler(this.tableLayoutPanel1_Paint_1);
-            // 
+             // 
             // flowLayoutPanel1
             // 
             this.flowLayoutPanel1.Controls.Add(this.label1);
@@ -593,7 +592,6 @@
             this.label9.Size = new System.Drawing.Size(264, 40);
             this.label9.TabIndex = 0;
             this.label9.Text = "Vilket av följande val beskriver Moores lag?";
-            this.label9.Click += new System.EventHandler(this.label9_Click);
             // 
             // radioButton27
             // 
