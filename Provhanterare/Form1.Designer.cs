@@ -480,7 +480,7 @@
             this.flowLayoutPanel5.Controls.Add(this.radioButton20);
             this.flowLayoutPanel5.Location = new System.Drawing.Point(3, 3);
             this.flowLayoutPanel5.Name = "flowLayoutPanel5";
-            this.flowLayoutPanel5.Size = new System.Drawing.Size(279, 101);
+            this.flowLayoutPanel5.Size = new System.Drawing.Size(198, 175);
             this.flowLayoutPanel5.TabIndex = 0;
             // 
             // label5
@@ -488,52 +488,52 @@
             this.label5.AutoSize = true;
             this.label5.Location = new System.Drawing.Point(3, 0);
             this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(246, 40);
+            this.label5.Size = new System.Drawing.Size(189, 60);
             this.label5.TabIndex = 0;
             this.label5.Text = "Vad av följande kan du inte programmera en dator till att göra?";
             // 
             // radioButton17
             // 
             this.radioButton17.AutoSize = true;
-            this.radioButton17.Location = new System.Drawing.Point(3, 43);
+            this.radioButton17.Location = new System.Drawing.Point(3, 63);
             this.radioButton17.Name = "radioButton17";
-            this.radioButton17.Size = new System.Drawing.Size(125, 24);
+            this.radioButton17.Size = new System.Drawing.Size(92, 24);
             this.radioButton17.TabIndex = 5;
             this.radioButton17.TabStop = true;
-            this.radioButton17.Text = "radioButton17";
+            this.radioButton17.Text = "Laga mat";
             this.radioButton17.UseVisualStyleBackColor = true;
             // 
             // radioButton18
             // 
             this.radioButton18.AutoSize = true;
-            this.radioButton18.Location = new System.Drawing.Point(134, 43);
+            this.radioButton18.Location = new System.Drawing.Point(3, 93);
             this.radioButton18.Name = "radioButton18";
-            this.radioButton18.Size = new System.Drawing.Size(125, 24);
+            this.radioButton18.Size = new System.Drawing.Size(121, 24);
             this.radioButton18.TabIndex = 6;
             this.radioButton18.TabStop = true;
-            this.radioButton18.Text = "radioButton18";
+            this.radioButton18.Text = "Programmera";
             this.radioButton18.UseVisualStyleBackColor = true;
             // 
             // radioButton19
             // 
             this.radioButton19.AutoSize = true;
-            this.radioButton19.Location = new System.Drawing.Point(3, 73);
+            this.radioButton19.Location = new System.Drawing.Point(3, 123);
             this.radioButton19.Name = "radioButton19";
-            this.radioButton19.Size = new System.Drawing.Size(125, 24);
+            this.radioButton19.Size = new System.Drawing.Size(89, 24);
             this.radioButton19.TabIndex = 7;
             this.radioButton19.TabStop = true;
-            this.radioButton19.Text = "radioButton19";
+            this.radioButton19.Text = "Skapa liv";
             this.radioButton19.UseVisualStyleBackColor = true;
             // 
             // radioButton20
             // 
             this.radioButton20.AutoSize = true;
-            this.radioButton20.Location = new System.Drawing.Point(134, 73);
+            this.radioButton20.Location = new System.Drawing.Point(3, 153);
             this.radioButton20.Name = "radioButton20";
-            this.radioButton20.Size = new System.Drawing.Size(125, 24);
+            this.radioButton20.Size = new System.Drawing.Size(177, 24);
             this.radioButton20.TabIndex = 8;
             this.radioButton20.TabStop = true;
-            this.radioButton20.Text = "radioButton20";
+            this.radioButton20.Text = "Vara som en människa";
             this.radioButton20.UseVisualStyleBackColor = true;
             // 
             // flowLayoutPanel6
@@ -545,7 +545,7 @@
             this.flowLayoutPanel6.Controls.Add(this.radioButton24);
             this.flowLayoutPanel6.Location = new System.Drawing.Point(307, 3);
             this.flowLayoutPanel6.Name = "flowLayoutPanel6";
-            this.flowLayoutPanel6.Size = new System.Drawing.Size(277, 101);
+            this.flowLayoutPanel6.Size = new System.Drawing.Size(277, 175);
             this.flowLayoutPanel6.TabIndex = 1;
             // 
             // label6
@@ -563,43 +563,43 @@
             this.radioButton21.AutoSize = true;
             this.radioButton21.Location = new System.Drawing.Point(3, 23);
             this.radioButton21.Name = "radioButton21";
-            this.radioButton21.Size = new System.Drawing.Size(125, 24);
+            this.radioButton21.Size = new System.Drawing.Size(126, 24);
             this.radioButton21.TabIndex = 1;
             this.radioButton21.TabStop = true;
-            this.radioButton21.Text = "radioButton21";
+            this.radioButton21.Text = "Kod i textform";
             this.radioButton21.UseVisualStyleBackColor = true;
             // 
             // radioButton22
             // 
             this.radioButton22.AutoSize = true;
-            this.radioButton22.Location = new System.Drawing.Point(134, 23);
+            this.radioButton22.Location = new System.Drawing.Point(3, 53);
             this.radioButton22.Name = "radioButton22";
-            this.radioButton22.Size = new System.Drawing.Size(125, 24);
+            this.radioButton22.Size = new System.Drawing.Size(238, 24);
             this.radioButton22.TabIndex = 2;
             this.radioButton22.TabStop = true;
-            this.radioButton22.Text = "radioButton22";
+            this.radioButton22.Text = "Kod i två symboler som 1 och 0";
             this.radioButton22.UseVisualStyleBackColor = true;
             // 
             // radioButton23
             // 
             this.radioButton23.AutoSize = true;
-            this.radioButton23.Location = new System.Drawing.Point(3, 53);
+            this.radioButton23.Location = new System.Drawing.Point(3, 83);
             this.radioButton23.Name = "radioButton23";
-            this.radioButton23.Size = new System.Drawing.Size(125, 24);
+            this.radioButton23.Size = new System.Drawing.Size(103, 24);
             this.radioButton23.TabIndex = 3;
             this.radioButton23.TabStop = true;
-            this.radioButton23.Text = "radioButton23";
+            this.radioButton23.Text = "Psuedokod";
             this.radioButton23.UseVisualStyleBackColor = true;
             // 
             // radioButton24
             // 
             this.radioButton24.AutoSize = true;
-            this.radioButton24.Location = new System.Drawing.Point(134, 53);
+            this.radioButton24.Location = new System.Drawing.Point(3, 113);
             this.radioButton24.Name = "radioButton24";
-            this.radioButton24.Size = new System.Drawing.Size(125, 24);
+            this.radioButton24.Size = new System.Drawing.Size(252, 24);
             this.radioButton24.TabIndex = 4;
             this.radioButton24.TabStop = true;
-            this.radioButton24.Text = "radioButton24";
+            this.radioButton24.Text = "Objektorienterad programmering";
             this.radioButton24.UseVisualStyleBackColor = true;
             // 
             // flowLayoutPanel7
@@ -611,7 +611,7 @@
             this.flowLayoutPanel7.Controls.Add(this.radioButton28);
             this.flowLayoutPanel7.Location = new System.Drawing.Point(605, 3);
             this.flowLayoutPanel7.Name = "flowLayoutPanel7";
-            this.flowLayoutPanel7.Size = new System.Drawing.Size(279, 101);
+            this.flowLayoutPanel7.Size = new System.Drawing.Size(262, 147);
             this.flowLayoutPanel7.TabIndex = 2;
             // 
             // label7
@@ -628,43 +628,43 @@
             this.radioButton25.AutoSize = true;
             this.radioButton25.Location = new System.Drawing.Point(3, 23);
             this.radioButton25.Name = "radioButton25";
-            this.radioButton25.Size = new System.Drawing.Size(125, 24);
+            this.radioButton25.Size = new System.Drawing.Size(241, 24);
             this.radioButton25.TabIndex = 1;
             this.radioButton25.TabStop = true;
-            this.radioButton25.Text = "radioButton25";
+            this.radioButton25.Text = "Översätter kod till datorns språk";
             this.radioButton25.UseVisualStyleBackColor = true;
             // 
             // radioButton26
             // 
             this.radioButton26.AutoSize = true;
-            this.radioButton26.Location = new System.Drawing.Point(134, 23);
+            this.radioButton26.Location = new System.Drawing.Point(3, 53);
             this.radioButton26.Name = "radioButton26";
-            this.radioButton26.Size = new System.Drawing.Size(125, 24);
+            this.radioButton26.Size = new System.Drawing.Size(136, 24);
             this.radioButton26.TabIndex = 2;
             this.radioButton26.TabStop = true;
-            this.radioButton26.Text = "radioButton26";
+            this.radioButton26.Text = "Startar program";
             this.radioButton26.UseVisualStyleBackColor = true;
             // 
             // radioButton27
             // 
             this.radioButton27.AutoSize = true;
-            this.radioButton27.Location = new System.Drawing.Point(3, 53);
+            this.radioButton27.Location = new System.Drawing.Point(3, 83);
             this.radioButton27.Name = "radioButton27";
-            this.radioButton27.Size = new System.Drawing.Size(125, 24);
+            this.radioButton27.Size = new System.Drawing.Size(124, 24);
             this.radioButton27.TabIndex = 3;
             this.radioButton27.TabStop = true;
-            this.radioButton27.Text = "radioButton27";
+            this.radioButton27.Text = "Rättar din kod";
             this.radioButton27.UseVisualStyleBackColor = true;
             // 
             // radioButton28
             // 
             this.radioButton28.AutoSize = true;
-            this.radioButton28.Location = new System.Drawing.Point(134, 53);
+            this.radioButton28.Location = new System.Drawing.Point(3, 113);
             this.radioButton28.Name = "radioButton28";
-            this.radioButton28.Size = new System.Drawing.Size(125, 24);
+            this.radioButton28.Size = new System.Drawing.Size(215, 24);
             this.radioButton28.TabIndex = 4;
             this.radioButton28.TabStop = true;
-            this.radioButton28.Text = "radioButton28";
+            this.radioButton28.Text = "Stänger och rensar program";
             this.radioButton28.UseVisualStyleBackColor = true;
             // 
             // flowLayoutPanel8
@@ -676,7 +676,7 @@
             this.flowLayoutPanel8.Controls.Add(this.radioButton32);
             this.flowLayoutPanel8.Location = new System.Drawing.Point(907, 3);
             this.flowLayoutPanel8.Name = "flowLayoutPanel8";
-            this.flowLayoutPanel8.Size = new System.Drawing.Size(273, 101);
+            this.flowLayoutPanel8.Size = new System.Drawing.Size(283, 175);
             this.flowLayoutPanel8.TabIndex = 3;
             // 
             // label8
@@ -690,46 +690,46 @@
             // 
             // radioButton29
             // 
-            this.radioButton29.AutoSize = true;
+            this.flowLayoutPanel8.SetFlowBreak(this.radioButton29, true);
             this.radioButton29.Location = new System.Drawing.Point(3, 43);
             this.radioButton29.Name = "radioButton29";
-            this.radioButton29.Size = new System.Drawing.Size(125, 24);
+            this.radioButton29.Size = new System.Drawing.Size(280, 24);
             this.radioButton29.TabIndex = 1;
             this.radioButton29.TabStop = true;
-            this.radioButton29.Text = "radioButton29";
+            this.radioButton29.Text = "Programmering för orienterare";
             this.radioButton29.UseVisualStyleBackColor = true;
             // 
             // radioButton30
             // 
             this.radioButton30.AutoSize = true;
-            this.radioButton30.Location = new System.Drawing.Point(134, 43);
+            this.radioButton30.Location = new System.Drawing.Point(3, 73);
             this.radioButton30.Name = "radioButton30";
-            this.radioButton30.Size = new System.Drawing.Size(125, 24);
+            this.radioButton30.Size = new System.Drawing.Size(138, 24);
             this.radioButton30.TabIndex = 2;
             this.radioButton30.TabStop = true;
-            this.radioButton30.Text = "radioButton30";
+            this.radioButton30.Text = "Allt visas i boxar";
             this.radioButton30.UseVisualStyleBackColor = true;
             // 
             // radioButton31
             // 
             this.radioButton31.AutoSize = true;
-            this.radioButton31.Location = new System.Drawing.Point(3, 73);
+            this.radioButton31.Location = new System.Drawing.Point(3, 103);
             this.radioButton31.Name = "radioButton31";
-            this.radioButton31.Size = new System.Drawing.Size(125, 24);
+            this.radioButton31.Size = new System.Drawing.Size(171, 24);
             this.radioButton31.TabIndex = 3;
             this.radioButton31.TabStop = true;
-            this.radioButton31.Text = "radioButton31";
+            this.radioButton31.Text = "Blockprogrammering";
             this.radioButton31.UseVisualStyleBackColor = true;
             // 
             // radioButton32
             // 
-            this.radioButton32.AutoSize = true;
-            this.radioButton32.Location = new System.Drawing.Point(134, 73);
+            this.flowLayoutPanel8.SetFlowBreak(this.radioButton32, true);
+            this.radioButton32.Location = new System.Drawing.Point(3, 133);
             this.radioButton32.Name = "radioButton32";
-            this.radioButton32.Size = new System.Drawing.Size(125, 24);
+            this.radioButton32.Size = new System.Drawing.Size(246, 45);
             this.radioButton32.TabIndex = 4;
             this.radioButton32.TabStop = true;
-            this.radioButton32.Text = "radioButton32";
+            this.radioButton32.Text = "Använder kodblock för att lättare skriva kod";
             this.radioButton32.UseVisualStyleBackColor = true;
             // 
             // flowLayoutPanel9
@@ -758,43 +758,43 @@
             this.radioButton33.AutoSize = true;
             this.radioButton33.Location = new System.Drawing.Point(3, 23);
             this.radioButton33.Name = "radioButton33";
-            this.radioButton33.Size = new System.Drawing.Size(125, 24);
+            this.radioButton33.Size = new System.Drawing.Size(238, 24);
             this.radioButton33.TabIndex = 1;
             this.radioButton33.TabStop = true;
-            this.radioButton33.Text = "radioButton33";
+            this.radioButton33.Text = "Visar datorer hur man gör saker";
             this.radioButton33.UseVisualStyleBackColor = true;
             // 
             // radioButton34
             // 
             this.radioButton34.AutoSize = true;
-            this.radioButton34.Location = new System.Drawing.Point(134, 23);
+            this.radioButton34.Location = new System.Drawing.Point(3, 53);
             this.radioButton34.Name = "radioButton34";
-            this.radioButton34.Size = new System.Drawing.Size(125, 24);
+            this.radioButton34.Size = new System.Drawing.Size(225, 24);
             this.radioButton34.TabIndex = 2;
             this.radioButton34.TabStop = true;
-            this.radioButton34.Text = "radioButton34";
+            this.radioButton34.Text = "Lära en dator att lära sig själv";
             this.radioButton34.UseVisualStyleBackColor = true;
             // 
             // radioButton35
             // 
             this.radioButton35.AutoSize = true;
-            this.radioButton35.Location = new System.Drawing.Point(3, 53);
+            this.radioButton35.Location = new System.Drawing.Point(3, 83);
             this.radioButton35.Name = "radioButton35";
-            this.radioButton35.Size = new System.Drawing.Size(125, 24);
+            this.radioButton35.Size = new System.Drawing.Size(201, 24);
             this.radioButton35.TabIndex = 3;
             this.radioButton35.TabStop = true;
-            this.radioButton35.Text = "radioButton35";
+            this.radioButton35.Text = "Lär människor om datorer";
             this.radioButton35.UseVisualStyleBackColor = true;
             // 
             // radioButton36
             // 
             this.radioButton36.AutoSize = true;
-            this.radioButton36.Location = new System.Drawing.Point(134, 53);
+            this.radioButton36.Location = new System.Drawing.Point(3, 113);
             this.radioButton36.Name = "radioButton36";
-            this.radioButton36.Size = new System.Drawing.Size(125, 24);
+            this.radioButton36.Size = new System.Drawing.Size(160, 24);
             this.radioButton36.TabIndex = 4;
             this.radioButton36.TabStop = true;
-            this.radioButton36.Text = "radioButton36";
+            this.radioButton36.Text = "Kurser om maskiner";
             this.radioButton36.UseVisualStyleBackColor = true;
             // 
             // flowLayoutPanel10
@@ -870,7 +870,7 @@
             this.flowLayoutPanel11.Controls.Add(this.radioButton42);
             this.flowLayoutPanel11.Location = new System.Drawing.Point(605, 184);
             this.flowLayoutPanel11.Name = "flowLayoutPanel11";
-            this.flowLayoutPanel11.Size = new System.Drawing.Size(220, 162);
+            this.flowLayoutPanel11.Size = new System.Drawing.Size(187, 162);
             this.flowLayoutPanel11.TabIndex = 6;
             // 
             // label11
@@ -887,9 +887,9 @@
             this.label12.AutoSize = true;
             this.label12.Location = new System.Drawing.Point(3, 40);
             this.label12.Name = "label12";
-            this.label12.Size = new System.Drawing.Size(175, 20);
+            this.label12.Size = new System.Drawing.Size(162, 20);
             this.label12.TabIndex = 1;
-            this.label12.Text = "Är exemplet uppdaterat?";
+            this.label12.Text = "Är exemplet utdaterat?";
             // 
             // radioButton41
             // 
@@ -948,7 +948,7 @@
             // 
             this.radioButton44.Location = new System.Drawing.Point(3, 97);
             this.radioButton44.Name = "radioButton44";
-            this.radioButton44.Size = new System.Drawing.Size(270, 48);
+            this.radioButton44.Size = new System.Drawing.Size(256, 48);
             this.radioButton44.TabIndex = 4;
             this.radioButton44.TabStop = true;
             this.radioButton44.Text = "Antalet datorer per 1000 invånare per år";
@@ -1082,14 +1082,14 @@
             this.flowLayoutPanel18.Controls.Add(this.button1);
             this.flowLayoutPanel18.Location = new System.Drawing.Point(907, 756);
             this.flowLayoutPanel18.Name = "flowLayoutPanel18";
-            this.flowLayoutPanel18.Size = new System.Drawing.Size(286, 200);
+            this.flowLayoutPanel18.Size = new System.Drawing.Size(297, 264);
             this.flowLayoutPanel18.TabIndex = 16;
             // 
             // button1
             // 
             this.button1.Location = new System.Drawing.Point(3, 3);
             this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(280, 191);
+            this.button1.Size = new System.Drawing.Size(294, 197);
             this.button1.TabIndex = 0;
             this.button1.Text = "Lämna in";
             this.button1.UseVisualStyleBackColor = true;
@@ -1126,7 +1126,7 @@
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.AutoScroll = true;
-            this.ClientSize = new System.Drawing.Size(1228, 818);
+            this.ClientSize = new System.Drawing.Size(1228, 964);
             this.Controls.Add(this.tableLayoutPanel3);
             this.Name = "Form1";
             this.Text = "Form1";
