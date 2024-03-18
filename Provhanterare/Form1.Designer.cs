@@ -470,6 +470,7 @@
             this.tableLayoutPanel3.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 26.33495F));
             this.tableLayoutPanel3.Size = new System.Drawing.Size(1207, 1023);
             this.tableLayoutPanel3.TabIndex = 2;
+            this.tableLayoutPanel3.Paint += new System.Windows.Forms.PaintEventHandler(this.tableLayoutPanel3_Paint);
             // 
             // flowLayoutPanel5
             // 
@@ -1093,6 +1094,7 @@
             this.button1.TabIndex = 0;
             this.button1.Text = "Lämna in";
             this.button1.UseVisualStyleBackColor = true;
+            this.button1.Click += new System.EventHandler(this.button1_Click_1);
             // 
             // flowLayoutPanel19
             // 
@@ -1129,7 +1131,7 @@
             this.ClientSize = new System.Drawing.Size(1228, 964);
             this.Controls.Add(this.tableLayoutPanel3);
             this.Name = "Form1";
-            this.Text = "Form1";
+            this.Text = "Provhanteraren";
             this.Load += new System.EventHandler(this.Form1_Load);
             this.tableLayoutPanel1.ResumeLayout(false);
             this.flowLayoutPanel1.ResumeLayout(false);
