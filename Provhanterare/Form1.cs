@@ -72,11 +72,11 @@ namespace Provhanterare
             sw.WriteLine("6. 1936");
             sw.WriteLine("7. Nej");
             sw.WriteLine("8. Antalet transistorer dubblas vartannat år alltså datorkraften dubblas vartannat år.");
-            sw.WriteLine("9. Moores lag kommer troligen att sluta gälla p.g.a att transistorerna blir så som att kvantfysiken kan krångla och vi inte \r\n   längre vet vart elektronerna är.");
-            sw.WriteLine("10. Gör så att koden är ofentlig och att alla kan ta del av den. Det finns ett stort community och programmen man gör kan \r\n    bli billigare men det finns ingen officiel support och det kan finnas säkerhetsrisker.");
-            sw.WriteLine("11. För att en annan ska lätt kunna följa den koden som man har gjort och för att det ska vara lätt att förstå.");
+            sw.WriteLine("9. Moores lag kommer troligen att sluta gälla p.g.a att transistorerna blir så som att kvantfysiken kan krångla och vi inte \r\n   längre vet vart elektronerna är. Eftersom transistorerna inte kan bli mindre måste man antingen göra datorer större eller \r\n   utveckla och programmera så att programmen m.m blir mer effektiv så det inte behövs lika mycket datakraft.");
+            sw.WriteLine("10. Gör så att koden är ofentlig och att alla kan ta del av den. Användarna får rätten att använda, ändra på programvaran och \r\n    distrubera den till vem som helst för alla ändamål.");
+            sw.WriteLine("11. För att en annan ska lätt kunna följa den koden som man har gjort och för att det ska vara lätt att förstå. Om man jobbar som en programmerare\r\n    och till exempel blir sjuk en dag måste en annan person ta över din kod och därför är det viktigt att du inte ändrar din kodningstil så att \r\n    personen kan så lätt som möjligt fortsätta med din kod.");
             sw.WriteLine("12. Alla operativsystem fungerar på olika sätt och därför måste man programmera olika beroende på vilket operativsystem applikationen ska köras i.");
-            sw.WriteLine("13. AI har gjort det lättare att programmera då man lätt kan få svar på det man behöver, AI har gett oss fler möjligheter.");
+            sw.WriteLine("13.AI har gjort det lättare att programmera då man lätt kan få svar på det man behöver, AI har gett oss fler möjligheter. Vi kan nu låta en \r\n    dator t. ex analysera data och utifrån det fatta beslut på en mycket mer avancerad nivå än innan.");
             sw.Close();
         }
 
